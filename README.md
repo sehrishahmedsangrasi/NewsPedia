@@ -44,9 +44,6 @@
 - Add multimedia content support (images/videos)
 - Make the UI more mobile-friendly
 
-## 📸 Screenshots
-
-(Add screenshots here of home page, admin dashboard, comment approval, etc.)
 
 ## 📜 License
 
